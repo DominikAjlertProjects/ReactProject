@@ -1,0 +1,129 @@
+.back {
+    background-color: #a3a3c2;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.card-position {
+    max-width: 600px;
+    margin-left: 240px;
+    box-shadow: rgba(0,0,0,0.8) 0 0 4px;
+}
+
+.ft-45 {
+    font-size: 45px !important;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.mt-54 {
+    margin-top: 54px;
+}
+
+.mt-55 {
+    margin-top: 55px;
+}
+
+.perfect-sidebar {
+    height: 100%;
+    background-color: #f2f2f2;
+}
+
+.mw-240 {
+    max-width: 240px;
+}
+
+.perfect-row {
+    margin-top: 55px;
+    height: calc(100vh - 57px);
+}
+
+.perfect-row-dashboard {
+    margin-top: 55px;
+    height: 100% !important;
+}
+
+.perfect-font {
+    font-weight: 300 !important;
+    font-size: 18px;
+}
+
+.font-success {
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 45px;
+}
+
+.error-text {
+    font-size: 14px;
+}
+
+.bg-white {
+    background-color: white !important;
+}
+
+.perfect-header {
+    margin-bottom: 20px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+}
+
+.placeholder {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    display: inline !important;
+}
+
+.sidebar {
+    bottom: 0;
+    left: 0;
+    padding: 0;
+    z-index: 1000;
+    border-radius: 0 !important;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-right: 1px solid #eee;
+}
+
+.br-0 {
+    border-radius: 0 !important;
+}
+
+.h-100pc {
+    height: 100%;
+}
+
+.imgSizing {
+    width: 200px;
+    height: 200px;
+}
+
+.perfect-height {
+    height: calc(100vh - 56px);
+}
+
+.disp-none {
+    display: none;
+}
+
+.overflow {
+    overflow: auto;
+}
+
+.icon-pos {
+    float: right;
+    cursor: pointer;
+}
+
+.my-modal {
+    padding: 1rem !important;
+}
+
+.percentage-bar {
+    max-width: 250px;
+    max-height: 250px;
+}

@@ -1,0 +1,39 @@
+{
+  "name": "react-2.0",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "jsonwebtoken": "^8.1.0",
+    "keymaster": "^1.6.2",
+    "progressbar.js": "^1.0.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-favicon": "^0.0.11",
+    "react-modal": "^3.1.10",
+    "react-popup": "^0.9.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-link": "^2.0.2",
+    "react-router-prop-types": "^0.0.2",
+    "react-scripts": "1.0.17",
+    "react-toastify": "^3.2.1",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3",
+    "stream-browserify": "^2.0.1",
+    "superagent": "^3.8.2"
+  },
+  "scripts": {
+    "start": "PORT=80 HOST=engineershop.eu react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

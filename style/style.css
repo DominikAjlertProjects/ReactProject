@@ -1,0 +1,20 @@
+.back {
+    background-color: background-color: #a3a3c2;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.card-position {
+    max-width: 600px;
+    margin-left: 240px;
+}
+
+.ft-45 {
+    font-size: 45px !important;
+}
+
+.text-gray {
+    color: gray;
+}
